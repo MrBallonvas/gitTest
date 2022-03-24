@@ -1,0 +1,28 @@
+#git init
+
+#git add <file>
+#git add .
+
+# git commit -m "yout message"
+
+# create file with name .gitignore and write here file names to ignore them, add .gitignore  with powered git add <file name>
+
+# git branch -- displayed all branches
+# git branch <name branch> -- create new branch with name <name branch>
+# git branch -D <name branch> -- delete branch with name <name branch>
+# git checkout <branch name> -- switch branch to <branch name> branch
+# git checkout -b <branch name> -- create new branch with name <branch name> and switched to it branch
+
+# git merge <branch name> -- connect <branch name> branch to the master
+
+# git config --global user.email
+#								-- displayed user email and username 
+# git config --global user.name
+
+# git config --global user.name <your name>
+#											change in git user email and username
+# git config --global user.email <your email>
+
+# git remote add origin <link to your repository + ".git">
+
+# git push -u origin main
